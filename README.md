@@ -37,7 +37,9 @@ brak intuicyjności, brak porządku i jakichkolwiek zasad. Strona nie posiada ż
 ## TASK 2
 
 
-### Subtask 1
+### Subtask 1 
+(patrz zakladki w pliku :upside_down_face:)
+
 https://docs.google.com/spreadsheets/d/1GNO9gsMaKOLFxStR4nERPtgUnJ2K0XqZ8_6cHvbaXXg/edit?usp=share_link
 
 ### Subtask 2
