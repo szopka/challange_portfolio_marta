@@ -32,3 +32,15 @@ brak intuicyjności, brak porządku i jakichkolwiek zasad. Strona nie posiada ż
 - dodawanie meczu - część formularza po angielsku
 - opcja uruchomienia meczu i zapisania w nim akcji gracza (czepiam się, ale placeholder w oknie komentarzy przy dodawaniu akcji za bardzo przyklejony do lewej krawędzi :D) - brak informacji do czego służą buttony nad boiskiem, możliwość dodania wielu połówek meczu
 - w wersji mobilnej brak możliwości dodawania akcji podczas meczu
+
+
+## TASK 2
+### Subtask 3
+###### Po co piszemy test casy?
+Piszemy je, żeby zachować porządek, mieć jasność co do tego, co jest do wykonania.
+Jeśli pracujemy w grupie, test casy jasno przedstawiają, co jest do wykonania.
+Dodatkowo rozpisane TC będą niezastąpione przy retestach lub regresji, gdy trzeba będzie odtworzyć cały lub częściowy cykl testowy.
+
+*To tyle, uprasza się o łagodne traktowanie, jako, że pisanie test casów wykończyło me wątłe zdrowie* :smiling_imp:
+
+![meme](https://s3.memeshappen.com/memes/Enough-Test-cases--meme-40783.jpg)!
