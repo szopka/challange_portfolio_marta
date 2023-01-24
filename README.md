@@ -35,6 +35,14 @@ brak intuicyjności, brak porządku i jakichkolwiek zasad. Strona nie posiada ż
 
 
 ## TASK 2
+
+
+### Subtask 1
+https://docs.google.com/spreadsheets/d/1GNO9gsMaKOLFxStR4nERPtgUnJ2K0XqZ8_6cHvbaXXg/edit?usp=share_link
+
+### Subtask 2
+https://docs.google.com/spreadsheets/d/1fKoXLa8gdyVTkWsSdMCVouYJ7awFAUQ3F1KGhvhrLCM/edit?usp=share_link
+
 ### Subtask 3
 ###### Po co piszemy test casy?
 Piszemy je, żeby zachować porządek, mieć jasność co do tego, co jest do wykonania.
