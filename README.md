@@ -54,3 +54,22 @@ Dodatkowo rozpisane TC będą niezastąpione przy retestach lub regresji, gdy tr
 *To tyle, uprasza się o łagodne traktowanie, jako, że pisanie test casów wykończyło me wątłe zdrowie* :smiling_imp:
 
 ![meme](https://s3.memeshappen.com/memes/Enough-Test-cases--meme-40783.jpg)!
+
+## TASK 3
+
+
+### Subtask 1
+
+### Subtask 2
+
+https://docs.google.com/spreadsheets/d/1FJpszWl1i7Sr17xxEeJMNroumkMNNFEDECX1vSWQblc/edit?usp=sharing
+
+### Subtask 3
+
+Na wstępie napiszę, że cieżko w mojej odpowiedzi brakować będzie świeżości, bo olx towarzyszy nam od wielu lat i poniekąd zakorzenił się już trochę w naszej świadomości. No więc - jest to aplikacja do sprzedaży/wymiany (pierwotnie lokalnie) lub poszukiwania pracownika. Użytkownikiem ma być każdy, umiejący obsłużyć urządzenie mobilne oraz (ewentualnie) płatność i wysyłkę. Aplikacja sama w sobie nie jest skomplikowana, nawigacja jest dość prosta. Jeśli chodzi o usprawnienia  - mi osobiście przeszkadzją reklamy - zaśmiecają wizualnie i treściowo - ale to bolączka chyba wielu aplikacji. 
+
+Jeśli chodzi o testowanie mobilne od webowego to różnica dla mnie jest zwracanie uwagi na inne aspekt, przy testowaniu mobilnym przedewszystkim responsywność, zeby wszytsko dobrze wyglądało na małych ekranach, żeby było intuicyjne i poniekąd ergonomiczne oraz do ogarnięcia jedna ręką. 
+
+
+
+
