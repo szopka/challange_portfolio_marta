@@ -68,7 +68,7 @@ https://docs.google.com/spreadsheets/d/1FJpszWl1i7Sr17xxEeJMNroumkMNNFEDECX1vSWQ
 
 Na wstępie napiszę, że cieżko w mojej odpowiedzi brakować będzie świeżości, bo olx towarzyszy nam od wielu lat i poniekąd zakorzenił się już trochę w naszej świadomości. No więc - jest to aplikacja do sprzedaży/wymiany (pierwotnie lokalnie) lub poszukiwania pracownika. Użytkownikiem ma być każdy, umiejący obsłużyć urządzenie mobilne oraz (ewentualnie) płatność i wysyłkę. Aplikacja sama w sobie nie jest skomplikowana, nawigacja jest dość prosta. Jeśli chodzi o usprawnienia  - mi osobiście przeszkadzją reklamy - zaśmiecają wizualnie i treściowo - ale to bolączka chyba wielu aplikacji. 
 
-Jeśli chodzi o testowanie mobilne od webowego to różnica dla mnie jest zwracanie uwagi na inne aspekt, przy testowaniu mobilnym przedewszystkim responsywność, zeby wszytsko dobrze wyglądało na małych ekranach, żeby było intuicyjne i poniekąd ergonomiczne oraz do ogarnięcia jedna ręką. 
+Jeśli chodzi o testowanie mobilne od webowego to różnicą dla mnie jest zwracanie uwagi na inne aspekt, przy testowaniu mobilnym przedewszystkim responsywność, zeby wszytsko dobrze wyglądało na małych ekranach, żeby było intuicyjne i poniekąd ergonomiczne oraz do ogarnięcia jedna ręką. Pewną trudnością testowania mobilnego i przy tym także różnicą jest konieczność (w przypadku aplikacji natywnych) testowania urządzeń działających na innych systemach operacyjnych - oddzielny kod pisany dla każdego systemu operacyjnego.
 
 
 
