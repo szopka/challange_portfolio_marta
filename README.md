@@ -70,6 +70,35 @@ Na wstępie napiszę, że cieżko w mojej odpowiedzi brakować będzie świeżo�
 
 Jeśli chodzi o testowanie mobilne od webowego to różnicą dla mnie jest zwracanie uwagi na inne aspekt, przy testowaniu mobilnym przedewszystkim responsywność, zeby wszytsko dobrze wyglądało na małych ekranach, żeby było intuicyjne i poniekąd ergonomiczne oraz do ogarnięcia jedna ręką. Pewną trudnością testowania mobilnego i przy tym także różnicą jest konieczność (w przypadku aplikacji natywnych) testowania urządzeń działających na innych systemach operacyjnych - oddzielny kod pisany dla każdego systemu operacyjnego.
 
+## TASK 5
 
+
+Subtask 1
+Zapytania SQL:
+
+CREATE DATABASE nazwa_db
+
+USE nazwa_db
+
+SELECT (nazwa_kolumny)/ * AS nazwaAliasu
+FROM (nazwa_tabeli)
+
+
+
+SELECT GETDATE()
+
+SELECT UPPER('jakies tekst')
+SELECT LOWER('jakies tekst')
+
+SELECT DATEDIFF(HOUR 'data godzina", 'data godzina')
+               (MONTH 'data', 'data')
+               (YEAR 'data', 'data')
+               
+SELECT COUNT(nazwa_columny) from nazwa_tabeli
+
+SELECT MAX(nazwa_columny) from nazwa_tabeli 
+SELECT MIN(nazwa_columny) from nazwa_tabeli
+
+SELECT SUM(nazwa_columny) from nazwa_tabeli
 
 
