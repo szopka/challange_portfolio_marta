@@ -109,6 +109,16 @@ grupowanie i agregacja
 SELECT kol_1, count(*) FROM nazwa_tabeli
 GROUP BY kol_1
 
+łączenie tabel
+SELECT * FROM tabela_1
+JOIN tabela_2
+ON kolumna_tab_1 = kolumna_tab_2
+
+alisy tabel
+
+SELECT t1.nazwa_kolumny, t2.nazwa_kolumny FROM tabela_1 AS t1
+JOIN tabela_2 AS t2
+ON kolumna_tab_1 = kolumna_tab_2
 
 ### Subtask 3
 
