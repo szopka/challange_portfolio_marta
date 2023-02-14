@@ -83,7 +83,8 @@ USE nazwa_db
 SELECT nazwa_kolumny/ * AS nazwaAliasu
 FROM nazwa_tabeli
 
-
+SELECT * from nazwa_tabeli
+ORDER BY nazwa_kolumny
 
 SELECT GETDATE()
 
@@ -100,6 +101,13 @@ SELECT MAX(nazwa_columny) from nazwa_tabeli
 SELECT MIN(nazwa_columny) from nazwa_tabeli
 
 SELECT SUM(nazwa_columny) from nazwa_tabeli
+
+SELECT nazwa_kolumny FROM nazwa_tabeli
+GROUP BY nazwa_kolumny
+
+grupowanie i agregacja
+SELECT kol_1, count(*) FROM nazwa_tabeli
+GROUP BY kol_1
 
 
 ### Subtask 3
