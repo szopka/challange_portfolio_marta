@@ -291,6 +291,8 @@ VALUES (7, 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa');
 
 ### Subtask 3
 
+[PORTFOLIO](https://github.com/szopka/PORTFOLIO)
+
 
 
 
