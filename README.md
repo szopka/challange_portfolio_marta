@@ -60,15 +60,16 @@ Dodatkowo rozpisane TC będą niezastąpione przy retestach lub regresji, gdy tr
 
 ### Subtask 1
 
+[defect sheet](https://docs.google.com/spreadsheets/d/13Aztky405tAc1lmBdkNsgUmOiG10nXpSFx1elPr5YfU/edit?usp=share_link)
+
 ### Subtask 2
 
-https://docs.google.com/spreadsheets/d/1FJpszWl1i7Sr17xxEeJMNroumkMNNFEDECX1vSWQblc/edit?usp=sharing
+[Subtask 1](https://docs.google.com/spreadsheets/d/1GNO9gsMaKOLFxStR4nERPtgUnJ2K0XqZ8_6cHvbaXXg/edit?usp=share_link) 
+[Subtask 2](https://docs.google.com/spreadsheets/d/1fKoXLa8gdyVTkWsSdMCVouYJ7awFAUQ3F1KGhvhrLCM/edit?usp=share_link
 
 ### Subtask 3
 
-Na wstępie napiszę, że cieżko w mojej odpowiedzi brakować będzie świeżości, bo olx towarzyszy nam od wielu lat i poniekąd zakorzenił się już trochę w naszej świadomości. No więc - jest to aplikacja do sprzedaży/wymiany (pierwotnie lokalnie) lub poszukiwania pracownika. Użytkownikiem ma być każdy, umiejący obsłużyć urządzenie mobilne oraz (ewentualnie) płatność i wysyłkę. Aplikacja sama w sobie nie jest skomplikowana, nawigacja jest dość prosta. Jeśli chodzi o usprawnienia  - mi osobiście przeszkadzją reklamy - zaśmiecają wizualnie i treściowo - ale to bolączka chyba wielu aplikacji. 
-
-Jeśli chodzi o testowanie mobilne od webowego to różnicą dla mnie jest zwracanie uwagi na inne aspekt, przy testowaniu mobilnym przedewszystkim responsywność, zeby wszytsko dobrze wyglądało na małych ekranach, żeby było intuicyjne i poniekąd ergonomiczne oraz do ogarnięcia jedna ręką. Pewną trudnością testowania mobilnego i przy tym także różnicą jest konieczność (w przypadku aplikacji natywnych) testowania urządzeń działających na innych systemach operacyjnych - oddzielny kod pisany dla każdego systemu operacyjnego.
+[test reprort](https://drive.google.com/file/d/1_p7mlkXooOBLpQMA2XKDWnEl8ptX6ufo/view?usp=share_link)
 
 ## TASK 5
 
